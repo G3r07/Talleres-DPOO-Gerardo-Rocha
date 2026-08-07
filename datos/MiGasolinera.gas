@@ -1,0 +1,13 @@
+tipo:Gasolina extra plus (95 octanos):21000:3.0
+tipo:Gasolina extra premium (98 octanos):23000:89.0
+tipo:Gasolina corriente:15000:105.73333333333333
+tipo:Gasolina extra (91 octanos):19000:100.0
+surtidor:Carlos:Gasolina extra plus (95 octanos):87.0:Gasolina extra premium (98 octanos):0.0:Gasolina corriente:0.0:Gasolina extra (91 octanos):0.0
+surtidor:Pablo:Gasolina extra plus (95 octanos):0.0:Gasolina extra premium (98 octanos):0.0:Gasolina corriente:0.0:Gasolina extra (91 octanos):0.0
+surtidor:Manuel:Gasolina extra plus (95 octanos):0.0:Gasolina extra premium (98 octanos):0.0:Gasolina corriente:0.26666666666666666:Gasolina extra (91 octanos):0.0
+surtidor:Carlos:Gasolina extra plus (95 octanos):0.0:Gasolina extra premium (98 octanos):0.0:Gasolina corriente:14.0:Gasolina extra (91 octanos):0.0
+empleado:Mateo:0
+empleado:Pablo:0
+empleado:Andres:0
+empleado:Manuel:4000
+empleado:Carlos:2037000
